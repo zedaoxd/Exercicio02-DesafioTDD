@@ -1,7 +1,7 @@
 # Desafio TDD
 
 ## Sobre o projeto
-Este é o segundo desafio do **Bootcamp Spring** da [DevSuperior](https://devsuperior.com.br/cursos) cuja aulas estão sendo ministradas pelo profeddor [Nelio Alves](https://www.linkedin.com/in/nelio-alves/?originalSubdomain=br).
+Este é o segundo desafio do **Bootcamp Spring** da [DevSuperior](https://devsuperior.com.br/cursos) cuja aulas estão sendo ministradas pelo professor [Nelio Alves](https://www.linkedin.com/in/nelio-alves/?originalSubdomain=br).
 O presente desafio consistia em implementar todas as funcionalidades necessárias para que os teses já implementados passassem no projeto. 
 
 Tem 7 testes diferentes impletados, dentre os quais foi testado: 
